@@ -16,6 +16,7 @@
 		2AA49C2C234FB744009C01A5 /* UIColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA49C2B234FB744009C01A5 /* UIColorExtension.swift */; };
 		2AA49C2E234FB777009C01A5 /* ZoomTransitionManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA49C2D234FB777009C01A5 /* ZoomTransitionManager.swift */; };
 		2AA49C30234FB888009C01A5 /* ColorfulTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA49C2F234FB888009C01A5 /* ColorfulTableViewCell.swift */; };
+		2AA49C32234FBBFD009C01A5 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA49C31234FBBFD009C01A5 /* DetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		2AA49C2B234FB744009C01A5 /* UIColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIColorExtension.swift; sourceTree = "<group>"; };
 		2AA49C2D234FB777009C01A5 /* ZoomTransitionManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZoomTransitionManager.swift; sourceTree = "<group>"; };
 		2AA49C2F234FB888009C01A5 /* ColorfulTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorfulTableViewCell.swift; sourceTree = "<group>"; };
+		2AA49C31234FBBFD009C01A5 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				2AA49C25234FB561009C01A5 /* Info.plist */,
 				2AA49C17234FB55F009C01A5 /* AppDelegate.swift */,
 				2AA49C2F234FB888009C01A5 /* ColorfulTableViewCell.swift */,
+				2AA49C31234FBBFD009C01A5 /* DetailsViewController.swift */,
 				2AA49C19234FB55F009C01A5 /* SceneDelegate.swift */,
 				2AA49C2B234FB744009C01A5 /* UIColorExtension.swift */,
 				2AA49C1B234FB55F009C01A5 /* ViewController.swift */,
@@ -151,6 +154,7 @@
 				2AA49C18234FB55F009C01A5 /* AppDelegate.swift in Sources */,
 				2AA49C1A234FB55F009C01A5 /* SceneDelegate.swift in Sources */,
 				2AA49C30234FB888009C01A5 /* ColorfulTableViewCell.swift in Sources */,
+				2AA49C32234FBBFD009C01A5 /* DetailsViewController.swift in Sources */,
 				2AA49C2E234FB777009C01A5 /* ZoomTransitionManager.swift in Sources */,
 				2AA49C2C234FB744009C01A5 /* UIColorExtension.swift in Sources */,
 			);
